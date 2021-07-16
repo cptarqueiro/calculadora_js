@@ -34,6 +34,7 @@ function calcular(tipo, valor) {
 
 	}
 
-	//console.log(tipo, valor)
+	console.log(tipo, valor)
+	//teste git
 
 }
