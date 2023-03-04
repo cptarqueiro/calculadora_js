@@ -37,3 +37,5 @@ function calcular(tipo, valor) {
 	//console.log(tipo, valor)
 
 }
+
+Atualiza essa bagaça
